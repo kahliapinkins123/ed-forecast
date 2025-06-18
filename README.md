@@ -1,4 +1,5 @@
 # Emergency Department Volume Forecasting
+ [ED Forecast Portfolio Page]([https://your-portfolio-link.com](https://kahliapinkins123.wixsite.com/kahliapinkins/general-9))
 
 ## Background  
 Emergency Departments (EDs) are inherently unpredictable. Patient volume can surge unexpectedly or follow seasonal and event-driven trends such as flu season, holiday weekends, or major local events. These fluctuations create a critical challenge: how do you plan staffing and resources when demand constantly shifts?
